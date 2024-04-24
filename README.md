@@ -34,8 +34,5 @@ Based on the evaluation metrics, the XGBoost Regression model demonstrated the b
 3. Run the Jupyter Notebook `combined_cycle_power_plant.ipynb` to see the data preprocessing, model training, evaluation, and results.
 
 ## Contributors
-- [Your Name](GitHub Profile Link)
-- [Contributor 2 Name](GitHub Profile Link)
+- Chakravarthi Manepalli
 
-## License
-This project is licensed under the [MIT License](Link to License).
